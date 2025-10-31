@@ -1,4 +1,3 @@
-
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -21,6 +20,10 @@
 
     <div class="w-full max-w-2xl mx-auto bg-white p-8 rounded-xl shadow-2xl my-10">
         
+        <div class="text-center mb-6">
+            <img src="logo.jpge" alt="Logo de la empresa de viajes" class="mx-auto h-16 w-auto"> 
+            </div>
+
         <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">Perfil de Viajero</h1>
 
         <div id="step1">
@@ -67,7 +70,7 @@
                         <input type="radio" id="q1a3" name="q1" value="3" class="hidden">
                         <label for="q1a3" class="block w-full p-4 border border-gray-300 rounded-lg cursor-pointer hover:bg-gray-50">c) Lo veo como una oportunidad perfecta para aprender y crecer.</label>
                         
-                      </div>
+                    </div>
                 </fieldset>
 
                 <fieldset class="space-y-2">
@@ -98,7 +101,7 @@
                         <input type="radio" id="q3a3" name="q3" value="3" class="hidden">
                         <label for="q3a3" class="block w-full p-4 border border-gray-300 rounded-lg cursor-pointer hover:bg-gray-50">c) Escucho mi intuición y actúo desde el amor incondicional.</label>
                         
-                   
+                    
                     </div>
                 </fieldset>
 
@@ -114,11 +117,11 @@
                         <input type="radio" id="q4a3" name="q4" value="3" class="hidden">
                         <label for="q4a3" class="block w-full p-4 border border-gray-300 rounded-lg cursor-pointer hover:bg-gray-50">c) Alegría genuina por su prosperidad y bienestar.</label>
                         
-          
+            
                     </div>
                 </fieldset>
 
-                  <fieldset class="space-y-2">
+                    <fieldset class="space-y-2">
                     <legend class="text-lg font-semibold text-gray-800">5. ¿Cómo manejas una crítica o un desacuerdo con alguien cercano?</legend>
                     <div class="space-y-2">
                         <input type="radio" id="q5a1" name="q5" value="1" class="hidden">
