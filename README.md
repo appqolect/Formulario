@@ -26,6 +26,13 @@
 
         <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">Perfil de Viajero</h1>
 
+        <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 mb-8 rounded-md">
+            <h3 class="text-lg font-semibold text-yellow-700 mb-2">Test de Calibración (Basado en David R. Hawkins)</h3>
+            <p class="text-sm text-yellow-600">
+                Este test utiliza principios de la Escala de Conciencia de David R. Hawkins (desde la **Vergüenza** hasta la **Paz**). Tus respuestas nos ayudarán a calibrar tu estado actual de conciencia, energía y percepción, revelando tu **perfil de viajero energético**.
+            </p>
+        </div>
+
         <div id="step1">
             <p class="text-center text-gray-600 mb-6">Por favor, completa tus datos para iniciar el test.</p>
             <form id="userDataForm" class="space-y-4">
