@@ -21,7 +21,7 @@
     <div class="w-full max-w-2xl mx-auto bg-white p-8 rounded-xl shadow-2xl my-10">
         
         <div class="text-center mb-6">
-            <img src="logo.jpge" alt="Logo de la empresa de viajes" class="mx-auto h-16 w-auto"> 
+            <img src="logo.jpeg" alt="Qolect Coleccion de experiencias" class="mx-auto h-16 w-auto"> 
             </div>
 
         <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">Perfil de Viajero</h1>
