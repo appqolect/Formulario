@@ -1,5 +1,3 @@
-/*[magic_v1.html] */
-/*(https://github.com/user-attachments/files/23262063/magic_v1.html) */
 
 <html lang="es">
 <head>
