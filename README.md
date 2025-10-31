@@ -48,11 +48,7 @@
                     <label for="correo" class="block text-sm font-medium text-gray-700">Correo Electrónico</label>
                     <input type="email" id="correo" name="correo" required class="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500">
                 </div>
-               // <div>
-               //     <label for="evento" class="block text-sm font-medium text-gray-700">Evento de Interés</label>
-               //     <input type="text" id="evento" name="evento" class="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500">
-               // </div>
-                
+                            
                 <div id="formError" class="text-red-500 text-center font-medium hidden mt-2"></div>
                 
                 <button type="submit" class="w-full bg-blue-600 text-white font-bold py-3 px-6 rounded-lg shadow-lg hover:bg-blue-700 transition duration-300">
